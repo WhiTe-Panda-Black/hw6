@@ -399,6 +399,8 @@ img {
 }
 
 .form-subscribe input {
+    margin: 0;
+    padding: 0;
     border: none;
     border: 1px solid #e7e7e7;
     border-right: none;
@@ -411,6 +413,8 @@ img {
 }
 
 .form-subscribe button {
+    margin: 0;
+    padding: 0;
     border: none;
     width: 150px;
     background-color: #95e1d3;
