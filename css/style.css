@@ -336,6 +336,7 @@ img {
     background-image: url(../img/icon/instagram.png);
 }
 
+.socials-item a:focus,
 .socials-item a:hover {
     background-color: #95e1d3;
 }
